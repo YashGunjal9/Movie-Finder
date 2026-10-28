@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const movieResults = document.getElementById("movieResults");
 
   // API
-  const API_KEY = "fe860c39";
+  const API_KEY = "YOUR_API_KEY";
   const OMDB_URL = "https://www.omdbapi.com/";
   const WIKI_URL = "https://en.wikipedia.org/api/rest_v1/page/summary/";
 
